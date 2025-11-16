@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+joblib
+imbalanced-learn
+xgboost
+optuna
+#version python 3.14
