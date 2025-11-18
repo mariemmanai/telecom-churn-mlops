@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pkl
+*.model
+mlruns/
+.DS_Store
+*.log
